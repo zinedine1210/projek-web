@@ -1,0 +1,14 @@
+Membuat website sekolah online
+- Kantin Online
+- Koperasi Online
+- Perpustakaan Online
+- Suara Pembangunan
+
+.... yang perlu dipersiakan
+logo aplikasi
+-utama
+-kantin
+-koperasi
+-suara pembangunan
+-perpustakaan
+
